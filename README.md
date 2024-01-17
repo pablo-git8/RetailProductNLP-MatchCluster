@@ -1,6 +1,6 @@
 # RetailProductNLP-MatchCluster
 
-## Project Overview
+## **Project Overview**
 
 This project is centered around Natural Language Processing (NLP) for an entity matching and clustering use case. It aims to compare products listed by two different retailers, Retailer A and Retailer B. The project applies various NLP techniques including tokenization, TF-IDF vectorization, clustering algorithms, and dimensionality reduction. The entire workflow is encapsulated in a pipeline for easy implementation and scalability.
 
