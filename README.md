@@ -1,5 +1,12 @@
 # RetailProductNLP-MatchCluster
 
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+
 ## **Project Overview**
 
 This project is centered around Natural Language Processing (NLP) for an entity matching and clustering use case. It aims to compare products listed by two different retailers, Retailer A and Retailer B. The project applies various NLP techniques including tokenization, TF-IDF vectorization, clustering algorithms, and dimensionality reduction. The entire workflow is encapsulated in a pipeline for easy implementation and scalability.
