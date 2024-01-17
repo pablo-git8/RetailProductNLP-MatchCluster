@@ -77,10 +77,6 @@ The project has demonstrated significant capabilities in NLP for entity matching
 
 These future work items aim to not only enhance the project's existing capabilities but also to expand its scope and applicability in the field of NLP for retail product analysis.
 
----
-
-This section adds a structured and detailed roadmap for future developments to your README.md file, ensuring clarity of direction and scope for potential contributors and users of the project.
-
 ### Usage
 
 To run the project, ensure all dependencies are installed as listed in `requirements.txt`. Use the notebooks in `notebooks-dev/` for a step-by-step approach or execute `run_pipeline.sh` in the `pipeline/` directory to run the entire process.
