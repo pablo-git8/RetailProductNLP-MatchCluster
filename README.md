@@ -65,16 +65,16 @@ These example outputs serve as a reference to understand the practical applicati
 
 The project has demonstrated significant capabilities in NLP for entity matching and clustering between different retailers. However, there is always room for improvement and expansion. The following are key areas identified for future development:
 
-1. **Pipeline Expansion:** Modify the pipeline to accommodate data from additional retailers (C, D, E, etc.), enhancing flexibility and scalability. This involves adapting the pipeline to read files from various folders and sources.
-2. **Advanced Clustering Techniques**: Experiment with different clustering methods, including graph-based algorithms and others like agglomerative or hierarchical clustering, to improve clustering performance and accuracy.
-3. **Dimensionality Reduction Exploration**: Test various dimensionality reduction techniques to optimize the handling of high-dimensional data, potentially improving model performance and interpretability.
-4. **Tokenization Optimization**: Enhance the text_tokenization function to include diverse regular expressions and larger, possibly multilingual, language models. This expansion aims to increase the scope of text analysis and ultimately improve clustering results.
-5. **TF-IDF Parameter Tuning**: Experiment with different parameters in TfidfVectorizer, such as max_df, min_df, and ngram_range, to refine the TF-IDF representation for better feature extraction.
-6. **Similarity Threshold Exploration**: Explore different thresholds in the entity matching process to define product similarities more accurately, ensuring a more nuanced and effective matching process.
-7. **Graph Analysis for Clustering**: Investigate the use of graph analysis techniques to evaluate clustering and matching performance, potentially uncovering new insights and optimization opportunities.
-8. **Enhanced Clustering Metrics**: Develop better metrics for clustering analysis, moving beyond the current use of unrecognized cluster counts and qualitative inspection, to provide a more robust evaluation of clustering effectiveness.
-9. **Pipeline Usability Improvements**: Add detailed instructions on how to run the pipeline in the README.md file, making the project more accessible to new users.
-10. **Notebook Enhancement**: Improve the indexing and use of markdown in development notebooks for better documentation and user experience.
+1. `Pipeline Expansion:` Modify the pipeline to accommodate data from additional retailers (C, D, E, etc.), enhancing flexibility and scalability. This involves adapting the pipeline to read files from various folders and sources.
+2. `Advanced Clustering Techniques:` Experiment with different clustering methods, including graph-based algorithms and others like agglomerative or hierarchical clustering, to improve clustering performance and accuracy.
+3. `Dimensionality Reduction Exploration:` Test various dimensionality reduction techniques to optimize the handling of high-dimensional data, potentially improving model performance and interpretability.
+4. `Tokenization Optimization:` Enhance the text_tokenization function to include diverse regular expressions and larger, possibly multilingual, language models. This expansion aims to increase the scope of text analysis and ultimately improve clustering results.
+5. `TF-IDF Parameter Tuning:` Experiment with different parameters in TfidfVectorizer, such as max_df, min_df, and ngram_range, to refine the TF-IDF representation for better feature extraction.
+6. `Similarity Threshold Exploration:` Explore different thresholds in the entity matching process to define product similarities more accurately, ensuring a more nuanced and effective matching process.
+7. `Graph Analysis for Clustering:` Investigate the use of graph analysis techniques to evaluate clustering and matching performance, potentially uncovering new insights and optimization opportunities.
+8. `Enhanced Clustering Metrics:` Develop better metrics for clustering analysis, moving beyond the current use of unrecognized cluster counts and qualitative inspection, to provide a more robust evaluation of clustering effectiveness.
+9. `Pipeline Usability Improvements:` Add detailed instructions on how to run the pipeline in the README.md file, making the project more accessible to new users.
+10. `Notebook Enhancement:` Improve the indexing and use of markdown in development notebooks for better documentation and user experience.
 
 These future work items aim to not only enhance the project's existing capabilities but also to expand its scope and applicability in the field of NLP for retail product analysis.
 
